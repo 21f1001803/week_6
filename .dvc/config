@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://week6_mlops_21f100803
+    credentialpath = ../corded-actor-474217-s3-346045ca990c.json
